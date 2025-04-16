@@ -1,3 +1,3 @@
-# Chatter
+# DreamBites Takeout
 
-simple chat bot in a custom element
+Welcome to DreamBites, what would you like to order?
